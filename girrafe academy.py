@@ -1,0 +1,6 @@
+color = input("Enter the color of brick: ")
+sky_color = input("Enter the color of sky: ")
+celebrity_name = input("Enter the name of your favorite celebrity: ")
+print("Roses are " +color )
+print("Sky is " +sky_color)
+print( celebrity_name+" I love you ")
